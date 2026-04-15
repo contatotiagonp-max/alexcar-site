@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alexcar Som Automotivo</title>
+
+<style>
+body {margin:0;font-family:Arial;background:#000;color:#fff;text-align:center;}
+h1 {color:red;}
+.btn {display:inline-block;padding:15px 25px;background:red;color:#fff;text-decoration:none;border-radius:8px;margin-top:20px;}
+.section {padding:40px 20px;}
+</style>
+</head>
+
+<body>
+
+<h1>Alexcar Som e Acessórios Automotivos</h1>
+<p>Som automotivo e acessórios em Cabo Frio</p>
+
+<a class="btn" href="https://wa.me/5522999787030">CHAMAR NO WHATSAPP</a>
+
+<div class="section">
+<h2>Serviços</h2>
+<p>Som automotivo • Acessórios • Alarmes • Multimídia • Ar-condicionado</p>
+</div>
+
+<div class="section">
+<h2>Contato</h2>
+<p>Cabo Frio - RJ</p>
+<p>WhatsApp: (22) 99978-7030</p>
+</div>
+
+</body>
+</html>
